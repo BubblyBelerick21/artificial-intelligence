@@ -1,1 +1,1 @@
-# dicoding-course
+# for education purpose
